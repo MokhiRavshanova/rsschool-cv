@@ -31,3 +31,14 @@ const countChars = (text, char) => {
   return count;
 };
 ```
+
+# Education 
+- *University*: Samarkand branch of Tashkent university of information technologies
+- *Online course (Udemy)*: The Complete JavaScript + React Course - From Zero to Result - Ivan Petrychenko (in process)
+- *Apps*: Solo learn (HTML, CSS, JS), Mimo
+- *YouTube*: Freelancer lifestyle (Фрилансер по жизни)
+
+# Language 
+- *English*: Pre-Intermediate
+- *Russian*: Intermediate
+- *Uzbek*: Advanced
